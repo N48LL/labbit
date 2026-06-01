@@ -1,6 +1,18 @@
-# <img src="public/favicon.svg" width="28" height="28" alt="Labbit" /> Labbit
+<div align="center">
+
+<img src="public/favicon.svg" width="88" alt="Labbit" />
+
+# Labbit
 
 Simple self-hosted portal for your homelab. Easy to set up, easy to manage.
+
+<br />
+
+<img src="public/demo.gif" alt="Labbit dashboard demo" width="880" />
+
+</div>
+
+<br />
 
 ## Features
 
