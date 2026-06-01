@@ -6,7 +6,7 @@ const DEFAULT_BOARD: Board = {
   slug: 'home',
   settings: {
     background: { type: 'none', value: '' },
-    theme: { primary: 'green', neutral: 'slate' }
+    theme: { primary: 'amber', neutral: 'zinc' }
   },
   sections: [
     {
